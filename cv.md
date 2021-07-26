@@ -1,6 +1,6 @@
 # CV 
 1. ** Petrov Evgeny Vladimirovich **
-2. phone +375295885114 email evgenio89@gmail.com
+2. phone +375295885114 email evgenio891@gmail.com
 3. I want to become a programmer. I want to learn new things.
 4. I have very weak programming skills. I'm just starting my journey.
 5. ```onst numberOfFilms = +prompt('Сколько фильмов вы уже посмотрели?', '');

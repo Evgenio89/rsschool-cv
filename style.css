@@ -1,0 +1,17 @@
+div {
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color: rgb(179, 188, 189);
+    border: 2px solid rgb(54, 20, 204);
+}
+img {
+    padding-left: 30%;
+}
+h1{
+    text-align: center;
+    color: rgba(18, 155, 30, 0.897)
+}
+h3{
+    text-align: center;
+    color:rgb(22, 21, 21)
+}
